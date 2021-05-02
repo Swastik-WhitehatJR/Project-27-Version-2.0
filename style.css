@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ravi+Prakash&display=swap');
+
+html,body{
+ align-items: center;
+ margin: auto;
+ padding: auto;
+ align-self: center;
+align-content: center;
+}
+
+*{
+  align-self: center;
+}
